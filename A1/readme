@@ -1,0 +1,15 @@
+SELECT QUERIES:
+-Select * from table_name
+-Select col1, col2 from table_name
+-Select col1 from table_name
+
+DISTINCT
+-Select distinct col1 from table_name
+-Select distinct col1, col2 from table_name
+-
+AGGREGATE
+-Select max(col1) from table1
+-min,sum,average
+
+WHERE
+-Select col from table where col > x. !mind the spaces
